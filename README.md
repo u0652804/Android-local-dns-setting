@@ -28,5 +28,5 @@ note to record how to setting a local dns for Android Wi-Fi hotspot
        # try push cmd again
        adb push hosts /system/etc/hosts # success log : hosts: 1 file pushed. 0.0 MB/s (76 bytes in 0.011s)
        
-       
+3. above 1 and 2, you can get serve from your httpServer in Android device like http://192.168.43.1:8080/index.html as http://aa.com:8080/index.html        
        
